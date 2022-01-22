@@ -79,6 +79,10 @@ Engine3D_EXTERNAL_OBJECTS =
 
 Engine3D: CMakeFiles/Engine3D.dir/main.cpp.o
 Engine3D: CMakeFiles/Engine3D.dir/build.make
+Engine3D: external/glfw/src/libglfw3.a
+Engine3D: external/glad/libglad.a
+Engine3D: /usr/lib/x86_64-linux-gnu/librt.so
+Engine3D: /usr/lib/x86_64-linux-gnu/libm.so
 Engine3D: CMakeFiles/Engine3D.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/chopk/game_engine/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Engine3D"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Engine3D.dir/link.txt --verbose=$(VERBOSE)

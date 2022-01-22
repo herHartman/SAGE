@@ -1,3 +1,12 @@
 /home/chopk/game_engine/build/CMakeFiles/rebuild_cache.dir
 /home/chopk/game_engine/build/CMakeFiles/edit_cache.dir
 /home/chopk/game_engine/build/CMakeFiles/Engine3D.dir
+/home/chopk/game_engine/build/external/glfw/CMakeFiles/rebuild_cache.dir
+/home/chopk/game_engine/build/external/glfw/CMakeFiles/edit_cache.dir
+/home/chopk/game_engine/build/external/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/chopk/game_engine/build/external/glfw/src/CMakeFiles/edit_cache.dir
+/home/chopk/game_engine/build/external/glfw/src/CMakeFiles/update_mappings.dir
+/home/chopk/game_engine/build/external/glfw/src/CMakeFiles/glfw.dir
+/home/chopk/game_engine/build/external/glad/CMakeFiles/rebuild_cache.dir
+/home/chopk/game_engine/build/external/glad/CMakeFiles/edit_cache.dir
+/home/chopk/game_engine/build/external/glad/CMakeFiles/glad.dir

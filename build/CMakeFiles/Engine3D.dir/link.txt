@@ -1,1 +1,1 @@
-/usr/bin/c++    -rdynamic CMakeFiles/Engine3D.dir/main.cpp.o  -o Engine3D  -lSDL2main -lSDL2 -lGL 
+/usr/bin/c++    -rdynamic CMakeFiles/Engine3D.dir/main.cpp.o  -o Engine3D  external/glfw/src/libglfw3.a external/glad/libglad.a -lpthread -lrt -lm -ldl 

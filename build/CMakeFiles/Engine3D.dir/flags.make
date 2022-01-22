@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/chopk/game_engine/external/glfw/include -I/home/chopk/game_engine/external/glad/include 
 
