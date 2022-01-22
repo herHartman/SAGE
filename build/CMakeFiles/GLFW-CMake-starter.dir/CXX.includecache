@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chopk/game_engine/main.cpp
+SDL2/SDL.h
+-
+SDL2/SDL_surface.h
+-
+stdio.h
+-
+
